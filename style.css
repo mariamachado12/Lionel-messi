@@ -1,0 +1,53 @@
+body {
+    background-color: #4a5f7c;
+    color: #b4bfca;
+    text-align: center;
+    font-size: 20px;
+}
+
+.titulo {
+    font-size: 50px;
+}
+
+.subtitulo {
+    font-size: 30px;
+}
+
+.foto {
+    width: 20%;
+    border-radius: 20px;
+}
+
+.sobre {
+    margin: 40px;
+}
+
+.instagram {
+    text-decoration: none;
+    color: white;
+}
+
+.instagram:hover {
+    color: #0c213c;
+}
+
+ul {
+    list-style-type: none;
+    margin: 40px;
+}
+
+.item1 {
+    color: #20252b;
+}
+
+.item2 {
+    color: #283541;
+}
+
+.item3 {
+    color: #323c44;
+}
+
+.item4 {
+    color: #869caa;
+}
